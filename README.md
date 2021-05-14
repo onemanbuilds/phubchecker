@@ -1,4 +1,4 @@
-# phubchecker
+# Z0RNHUB CHECKER
  Simple tool to check the validity of an account.<br/>
 
 # Features
